@@ -10,7 +10,7 @@ Please note that modifying and distributing APK files may have legal implication
 
 ## Instructions
 
-1. **Download the Modified APK**: Download the APK file from the [Releases](https://github.com/yourusername/HarryPotterKanoWandAPKFix/releases) section.
+1. **Download the Modified APK**: Download the APK file from the [Releases](https://github.com/arshackerofficial/KanoWandLoginBypass/releases) section.
 2. **Install the APK**: Transfer the downloaded APK file to your device and install it. You may need to enable installation from unknown sources in your device's settings.
 3. **Run the App**: Once installed, open the app. The login process should be bypassed, and you should be able to use the wand directly.
 
